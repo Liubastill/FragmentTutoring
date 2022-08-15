@@ -1,4 +1,4 @@
-package com.example.fragmenttutoring.ui;
+package com.example.fragmenttutoring.domain;
 
 import androidx.annotation.DrawableRes;
 
